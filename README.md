@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Estudante de TI<br>Futuro desenvolvedor de web<br>Tempo livre: jogar futebol,jogar video game e assistir serie
+Estudante de TI<br>Futuro desenvolvedor de web<br>Tempo livre: futebol,video game e serie
 
 
 ## 🌐 Socials:
